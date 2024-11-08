@@ -1,0 +1,37 @@
+*{
+    margin: 10px;
+}
+
+.button{
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+}
+
+.button :hover{
+    background-color: #f0f0f0;
+}
+
+.logout-button{
+    padding: 10px;
+    background-color: #dc3545;
+    color: white;
+}
+
+.logout-button :hover{
+    background-color: #f0f0f0;
+}
+
+
+.user-details{
+    background-color: #f8f9fa;
+    padding: 2px;
+    border: 2px solid;
+}
+
+.loginpage{
+    display: block;
+}
+.dashboard{
+    display: none;
+}
